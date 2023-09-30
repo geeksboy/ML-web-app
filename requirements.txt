@@ -1,5 +1,3 @@
 plotly
-scikit-learn
 streamlit
 pandas
-os
